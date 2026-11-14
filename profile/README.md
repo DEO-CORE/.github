@@ -1,68 +1,44 @@
+<a href="https://www.deo-core.codes"><img src="https://raw.githubusercontent.com/DEO-CORE/.github/d5b0c63e6afc162f65772c4f3a8ff4ce31dd22e1/profile/hero.gif" width="1280" alt="DEO CORE — студия цифровых продуктов. Превращаем идеи в цифровые продукты. Кыргызстан, работаем без границ."></a>
 
-<div align="center">
+# DEO CORE
 
-# DEO-CORE
+**Независимая студия цифровых продуктов из Кыргызстана.** Соединяем стратегию, дизайн и разработку — от первого вопроса до запуска.
 
-### Building what's next.
+[Сайт ↗](https://www.deo-core.codes) · [Публичные проекты ↓](#публичные-проекты) · [Обсудить проект ↗](mailto:deocore@gmail.com) · [Hero без анимации](https://raw.githubusercontent.com/DEO-CORE/.github/d5b0c63e6afc162f65772c4f3a8ff4ce31dd22e1/profile/hero-static.png)
 
-**Independent Software Development Studio**
+<img src="https://raw.githubusercontent.com/DEO-CORE/.github/d5b0c63e6afc162f65772c4f3a8ff4ce31dd22e1/profile/capabilities.svg" width="1280" alt="Возможности: Product design — исследования, UX/UI, дизайн-системы; Web development — сайты и платформы; Mobile development — Flutter, iOS и Android; CRM и автоматизация — процессы, интеграции и API.">
 
-From Osh, Kyrgyzstan. Building for the world.
+## От идеи до продукта
 
-[Website](https://deo-core.codes) · [GitHub](https://github.com)
+**01 / Разобраться** — изучить задачу, пользователей и ограничения.  
+**02 / Спроектировать** — соединить сценарии, интерфейс и систему.  
+**03 / Разработать** — собрать продукт, проверить и подготовить запуск.  
+**04 / Развивать** — поддерживать и улучшать после релиза.
 
----
+<img src="https://raw.githubusercontent.com/DEO-CORE/.github/d5b0c63e6afc162f65772c4f3a8ff4ce31dd22e1/profile/projects.svg" width="1280" alt="Публичный код DEO CORE — разные задачи, открытый код.">
 
-### We design. We develop. We deliver.
+## Публичные проекты
 
-We create digital products that help businesses
-grow, automate operations, and move forward.
+| Проект | Что внутри | Технологии |
+| :--- | :--- | :--- |
+| [**ARTA ↗**](https://github.com/DEO-CORE/hackathon-arta) | Платформа повторного использования текстильных остатков. Хакатонный прототип; React-демо работает с локальными данными. | Flutter · React · FastAPI · PostgreSQL |
+| [**KISA Ecommerce ↗**](https://github.com/DEO-CORE/kisa_ecommerce) | Интернет-магазин KISA: фронтенд, API, админка и материалы по развёртыванию. | React · TypeScript · Django · PostgreSQL · Redis |
+| [**TermoClimat.kg ↗**](https://github.com/DEO-CORE/termoclimat-kg) | Сайт для организации TermoClimat.kg. | TypeScript |
 
-</div>
+[Все публичные репозитории организации ↗](https://github.com/orgs/DEO-CORE/repositories?type=public)
 
-## What We Do
+## Инструменты под задачу
 
-- **Web Development** — Modern websites and platforms
-- **Mobile Engineering** — Android & iOS applications
-- **Enterprise Solutions** — CRM and business automation
-- **Product Design** — UI/UX and digital experiences
-- **Custom Software** — Solutions built around real needs
+**Web** / React · Next.js · TypeScript  
+**Mobile** / Flutter · Dart  
+**Backend** / Python · Django · FastAPI  
+**Data** / PostgreSQL · Redis
 
-## Technology & Engineering
+Технологии выбираем под продукт. Дизайн и разработка работают вместе — с первого разговора до запуска.
 
-| Area | Technologies |
-|------|-------------|
-| Mobile | Flutter, Dart |
-| Frontend | React, Next.js, TypeScript |
-| Backend | Python, Django, FastAPI |
-| Data | PostgreSQL, Redis |
-| Infrastructure | Docker, GitHub Actions |
+<a href="https://www.deo-core.codes"><img src="https://raw.githubusercontent.com/DEO-CORE/.github/d5b0c63e6afc162f65772c4f3a8ff4ce31dd22e1/profile/contact.svg" width="1280" alt="Большие вещи начинаются с разговора. Открыть сайт DEO CORE."></a>
 
-## Our Products
+**Есть идея или сложная задача?** [Расскажите нам ↗](mailto:deocore@gmail.com)
 
-We are building an ecosystem of digital products
-focused on real-world challenges.
-
-Explore our public repositories to discover
-our engineering work.
-
-## Our Philosophy
-
-**Technology should solve problems, not create complexity.**
-
-We value clean architecture, thoughtful design,
-scalability, and long-term product quality.
-
----
-
-<div align="center">
-
-### Have a project in mind?
-
-**Let's build something meaningful.**
-
-[Explore DEO-CORE](https://deo-core.codes)
-
-© DEO-CORE · Osh, Kyrgyzstan
-
-</div>
+[deo-core.codes](https://www.deo-core.codes) · [deocore@gmail.com](mailto:deocore@gmail.com)  
+Кыргызстан · Работаем без границ.
